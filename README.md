@@ -26,4 +26,4 @@ An application to translate the name about Taiwan place.
 ## Note
 + This simple application is built with `python3.6` .
 + It is recommended to run in `windows` or `osx` .
-+ <font color="red">Phantomjs is not in this project<font> , you have to get [phantomjs](http://phantomjs.org/) download yourself & and put `phantomjs.exe` in the project floder.
++ __Phantomjs.exe is not in this project__ , you have to download [phantomjs](http://phantomjs.org/) yourself & and put `phantomjs.exe` in the project folder.
