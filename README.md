@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-An application to translate the name about Taiwan place. 
+An application to translate the name of Taiwan place. 
 
 ## How to use ?
 
