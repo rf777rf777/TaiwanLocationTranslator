@@ -20,7 +20,7 @@ An application to translate the name about Taiwan place.
 ## Library or API Reference
 
 * [selenium](http://www.seleniumhq.org/)
-* [beautifulsoup4](https://www.crummy.com/software/)
+* [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [phantomjs](http://phantomjs.org/)
 
 ## Note
