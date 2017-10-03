@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 from bs4 import BeautifulSoup
 
-driver = webdriver.PhantomJS()
+driver = webdriver.PhantomJS(executable_path='./phantomjs')
 #driver = webdriver.Chrome()
 print("="*5+"\n")
 print("台灣地區-地名中翻英\n\n使用說明：請輸入台灣地區的中文地名，並按下ENTER鍵即可得該地名之翻譯。\n\n翻譯來源：{siteName}\n網址：{url}\n".format(siteName="內政部地政司-地名資訊服務網",url="http://gn.moi.gov.tw/GeoNames/Translation/Translation.aspx"))
